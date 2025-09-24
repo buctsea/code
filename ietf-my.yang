@@ -44,6 +44,6 @@ module ietf-my {
   identity feeling {
     base uint32;
     description
-      "My feeling";
+      "My feeling is good";
   }
 }
